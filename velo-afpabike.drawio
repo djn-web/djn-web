@@ -134,7 +134,7 @@
           <mxGeometry x="450" y="250" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FwftkRezdxBFgDAwBEby-47" value="cretation contrat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="160" width="90" height="80" as="geometry" />
+          <mxGeometry x="574" y="149" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FwftkRezdxBFgDAwBEby-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -162,9 +162,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FwftkRezdxBFgDAwBEby-37" value="fiche&amp;nbsp;pièce " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="400" width="90" height="80" as="geometry" />
+          <mxGeometry x="275" y="410" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FwftkRezdxBFgDAwBEby-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.056;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.711;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FwftkRezdxBFgDAwBEby-41">
+        <mxCell id="FwftkRezdxBFgDAwBEby-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.044;exitY=0.313;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.711;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FwftkRezdxBFgDAwBEby-38" target="FwftkRezdxBFgDAwBEby-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="285" y="502" as="sourcePoint" />
             <mxPoint x="200" y="480" as="targetPoint" />
