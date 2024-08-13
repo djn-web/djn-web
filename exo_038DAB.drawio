@@ -1,9 +1,120 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.7">
   <diagram name="Page-1" id="nEokDzsJs1XwXtS5uEI3">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-1" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="291" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-2" value="OPERATUER MAINTENANCE" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="320" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-3" value="DAB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-6" value="carte visa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="268" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="90" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-3" target="WT5hDnRrG1FPfyMFsSfL-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="270" as="sourcePoint" />
+            <mxPoint x="560" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-14" value="consultation -depot d&#39;argent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="879" y="370" as="sourcePoint" />
+            <mxPoint x="979" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-16" value="&lt;div&gt;CB Avallée&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.95;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="230" as="sourcePoint" />
+            <mxPoint x="1020" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-3" target="WT5hDnRrG1FPfyMFsSfL-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="240" as="sourcePoint" />
+            <mxPoint x="613.34" y="179.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-24" target="WT5hDnRrG1FPfyMFsSfL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-22" value="Dépôt de chèque " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.05;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.442;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-24" target="WT5hDnRrG1FPfyMFsSfL-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-35" value="&amp;lt;&amp;lt;incloud&amp;nbsp; &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WT5hDnRrG1FPfyMFsSfL-23">
+          <mxGeometry x="-0.3324" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-24" value="authentification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="350" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-28" value="colectre l&#39;argent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-31" value="RECHARGE L&#39;ARGENT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="779" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="889" y="410" as="sourcePoint" />
+            <mxPoint x="979" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-3" target="WT5hDnRrG1FPfyMFsSfL-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="350" as="sourcePoint" />
+            <mxPoint x="750" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.95;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WT5hDnRrG1FPfyMFsSfL-31" target="WT5hDnRrG1FPfyMFsSfL-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="708.2893218813452" y="440" as="sourcePoint" />
+            <mxPoint x="708.2893218813452" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-36" value="&amp;lt;&amp;lt;incloud&amp;nbsp; &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="424.7010389259624" y="397.2065168131537" as="geometry">
+            <mxPoint x="35" y="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT5hDnRrG1FPfyMFsSfL-37" value="&amp;lt;&amp;lt;incloud&amp;nbsp; &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="434.7010389259624" y="407.2065168131537" as="geometry">
+            <mxPoint x="93" y="-109" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
