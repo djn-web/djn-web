@@ -30,17 +30,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-18" value="nav bar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="480" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-19" value="decpnnecter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="745" y="472" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="342" y="480" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="p0PM1gi7-nqcBXU_ZiSu-21" value="" style="swimlane;startSize=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-100" y="380" width="1200" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-18" value="nav bar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-21">
+          <mxGeometry x="120" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-21">
+          <mxGeometry x="450" y="70" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-19" value="decpnnecter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-21">
+          <mxGeometry x="860" y="70" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
