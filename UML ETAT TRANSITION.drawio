@@ -5,7 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p0PM1gi7-nqcBXU_ZiSu-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="340" width="1140" height="460" as="geometry" />
+          <mxGeometry x="15" y="270" width="1140" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-4" value="nav bar" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-1">
+          <mxGeometry x="75" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-5" value="decpnnecter" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-1">
+          <mxGeometry x="895" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-7" value="velo" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-1">
+          <mxGeometry x="465" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="p0PM1gi7-nqcBXU_ZiSu-8" value="gestion&amp;nbsp; sortie" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="p0PM1gi7-nqcBXU_ZiSu-1">
+          <mxGeometry x="755" y="340" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
