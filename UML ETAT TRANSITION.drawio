@@ -147,6 +147,9 @@
         <mxCell id="6p4SeUkuVUdnznrVokOb-11" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="390" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6p4SeUkuVUdnznrVokOb-13" value="&lt;div&gt;entry&lt;/div&gt;&lt;div&gt;login &lt;br&gt;&lt;/div&gt;&lt;div&gt;num accessoire&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="468" width="110" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
